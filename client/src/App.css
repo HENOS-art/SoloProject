@@ -1,0 +1,147 @@
+ .App {
+  max-width: 900px;
+  height: 900px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  font-family: inherit;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 20px 10px;
+}
+.red{
+  background-color: red;
+}
+th {
+  padding:  8px;
+  border: 1px solid black;
+  color:black;
+  background-color: rgb(160, 160, 160);
+}
+.box{
+  border: 2px solid cornflowerblue;
+  padding: 20px;
+
+}
+.gold{
+  color: rgb(158, 144, 15);
+}
+.box2{
+  border: 2px rgb(rgb(36, 35, 35), green, blue) black;
+  padding: 15px;
+}
+.box button{
+ background-color:rgb(35, 105, 163) ;
+ border-radius: 4px;
+}
+.bar{
+  padding-left: 650px;
+  display: block;
+ 
+}
+.input1{
+  width: 350px;
+  height: 75px;
+}
+.bar1{
+  padding-left: 600px;
+ 
+}
+Link{
+  padding-left: 70px;
+  color:rgb(5, 52, 68);
+}
+.bar button{
+  
+ margin-top: 15px;
+ background-color: red;
+ /* padding-left: 8px; */
+  padding-right: 30px; 
+  padding: 10px;
+ border-radius: 4px;
+}
+td  {
+  border: 1px solid black;
+  padding: 0px 70px ;
+  height: 50px;;
+}
+
+tr:nth-child(even) {
+  background-color: #cfcfcf;
+}
+
+tr:hover {
+  background-color: #8a8a8a;
+}
+
+input, select {
+  width: 300px;
+  padding: 10px 20px;
+  margin: 15px 0px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.show p{
+   font-size: large;
+   padding: 10px;
+   margin: 20px;
+}
+.nav{
+  display: block;
+  margin-left: 475px;
+ 
+  
+}
+.nav1{
+  display: block;
+  margin: 10px;
+}
+button {
+  margin: 0px 10px;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+  background-color: rgb(45, 114, 218);
+}
+
+.error-text {
+  color: red;
+  margin-left: 25px;
+  margin-bottom: 25px;
+}
+
+
+
+
+.cancelBtn {
+  color: black;
+  background-color: white;
+  border: 1px solid blue;
+}
+
+
+.debug {
+  border: 1px solid red;
+}
+
+img {
+  max-width:100%;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+hr {
+  margin: 25px;
+}  
